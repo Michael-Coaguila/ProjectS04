@@ -22,3 +22,7 @@ Para ejecutar la aplicación localmente:
 1. Clona este repositorio.
 2. Asegúrate de tener instalado Python y las bibliotecas necesarias (`pandas`, `plotly`, `streamlit`).
 3. Ejecuta el archivo principal usando el comando: `streamlit run app.py`
+
+## Acceso a la Aplicación en Render
+
+Puedes acceder a la aplicación en vivo a través de Render en el siguiente enlace: [https://sprintproject-4.onrender.com](https://sprintproject-4.onrender.com)
